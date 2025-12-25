@@ -99,7 +99,7 @@ function Privacy() {
             <div>
               <h3>Contact Us</h3>
               <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-              <a href="mailto:support@aiimagedetector.app">support@aiimagedetector.app</a>
+              <a href="mailto:athascordi@gmail.com">athascordi@gmail.com</a>
             </div>
           </div>
         </motion.div>
