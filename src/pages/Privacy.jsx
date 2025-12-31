@@ -58,6 +58,16 @@ function Privacy() {
             
             <h3>No Image Storage</h3>
             <p>We do not store, save, or retain any images you analyze. Once analysis is complete, the image data is not kept by the app.</p>
+
+            <h3>Face and Biometric Data</h3>
+            <p>FakeSnap does NOT collect, process, or analyze face data or any biometric information. Our forensic algorithms analyze technical image properties such as:</p>
+            <ul>
+              <li>Pixel patterns and compression artifacts</li>
+              <li>Image metadata (EXIF data)</li>
+              <li>Color histograms and frequency analysis</li>
+              <li>JPEG quality and encoding characteristics</li>
+            </ul>
+            <p>These algorithms detect signs of AI generation without identifying, recognizing, or processing any facial features or biometric data. Images are processed locally and discarded immediately after analysis.</p>
           </section>
 
           <section>
